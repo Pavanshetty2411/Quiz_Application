@@ -77,3 +77,5 @@ The application will start on:
 ## 🎥 Demo
 A demo video is available:  
 [▶️ Watch Demo](assets/demo/demo.mp4)
+OR
+[Use This Link](https://jumpshare.com/s/dWYpcbdwpj0IWPvV5iuj)
