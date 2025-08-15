@@ -3,6 +3,12 @@
 A **Quiz Application** built with **Spring Boot** using the MVC architecture.  
 This project demonstrates how to manage quizzes and questions with a clean separation of **Controller, Service, DAO, and Model layers**.
 
+## 🎥 Demo
+A demo video is available:  
+[▶️ Watch Demo](assets/demo/demo.mp4)
+OR
+[Use This Link](https://jumpshare.com/s/dWYpcbdwpj0IWPvV5iuj)
+
 
 ## 📌 Features
 - Manage quizzes and questions
@@ -74,8 +80,4 @@ The application will start on:
 
 ---
 
-## 🎥 Demo
-A demo video is available:  
-[▶️ Watch Demo](assets/demo/demo.mp4)
-OR
-[Use This Link](https://jumpshare.com/s/dWYpcbdwpj0IWPvV5iuj)
+
