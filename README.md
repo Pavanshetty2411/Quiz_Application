@@ -7,7 +7,7 @@ This project demonstrates how to manage quizzes and questions with a clean separ
 A demo video is available:  
 [▶️ Watch Demo](assets/demo/demo.mp4)
 OR
-[Use This Link]([https://drive.google.com/file/d/1mmQgn0edX7jnHbfT_f4QHJzZFNFDxeCG/view?usp=sharing])
+[ ▶️ Use This Link](https://drive.google.com/file/d/1mmQgn0edX7jnHbfT_f4QHJzZFNFDxeCG/view?usp=sharing)
 
 
 ## 📌 Features
